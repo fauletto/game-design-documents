@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T02:08:05.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="dyzfbKfOWhy3rrmdws-E" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-28T02:13:44.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="kCR0t99APtqjqa3pzyeL" version="12.4.7" type="github">
   <diagram id="403a78be-974d-41fc-e179-5ded5faecf27" name="Page-1">
     <mxGraphModel dx="3316" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
             <mxPoint x="-328.7142857142853" y="299.7142857142858" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a763d4cf351a4c-14" value="&lt;h1&gt;A3. Crew Hall 4&lt;/h1&gt;&lt;p&gt;Story continues from previous state.&lt;br&gt;&lt;br&gt;What do you want to do?&lt;br&gt;&lt;/p&gt;&lt;p&gt;1. First option.&lt;br&gt;2. Second option (optional).&lt;br&gt;3. Third option (optional).&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="a763d4cf351a4c-14" value="&lt;h1&gt;A3. Crew Hall 4&lt;/h1&gt;&lt;p&gt;Captain Mazzone will know why the ship stopped. You exit your quarters and make your way into Crew Hall 4. Your breath catches in your chest as you see the bodies of Corporal Jensen, Lieutenant Billups, and Staff Sergeant Briggs on the floor.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Briggs takes in a deep, rasping breath and struggles to call your name.&amp;nbsp;&lt;br&gt;&lt;br&gt;You rush across the hall to her, stumbling over Jensen&#39;s outstretched arm.&lt;/p&gt;&lt;p&gt;1. Continue...&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-920" y="195" width="410" height="220" as="geometry"/>
         </mxCell>
         <mxCell id="a763d4cf351a4c-17" value="&lt;h1&gt;X1. Game Over State&lt;/h1&gt;&lt;p&gt;Story goes here.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Want to try again?&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1. Yes.&lt;br&gt;2. No.&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
