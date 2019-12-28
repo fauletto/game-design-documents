@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-28T02:15:53.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="D0zLKk-DycfYoaSq7Kh1" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-28T02:21:28.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Q8gSDkQrD64nboJs6uAW" version="12.4.7" type="github">
   <diagram id="403a78be-974d-41fc-e179-5ded5faecf27" name="Page-1">
-    <mxGraphModel dx="3316" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -29,10 +29,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a763d4cf351a4c-13" value="&lt;h1&gt;A2. Corridor E-1&lt;/h1&gt;&lt;p&gt;You&#39;ve decided the best course of action is to search for a mechanical fault. As you walk down Corridor E-1, you notice it is unusually silent; on any given day, this hall is bustling with crew activity.&amp;nbsp;&lt;br&gt;&lt;span&gt;&lt;br&gt;What do you want to do?&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1. Continue toward the engine room.&lt;br&gt;2. Turn back .&lt;br&gt;3. Third option (optional).&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="a763d4cf351a4c-13" value="&lt;h1&gt;A2. Corridor E-1&lt;/h1&gt;&lt;p&gt;You&#39;ve decided the best course of action is to search for a mechanical fault. As you walk down Corridor E-1, you notice it is unusually silent; on any given day, this hall is bustling with crew activity.&amp;nbsp;&lt;br&gt;&lt;span&gt;&lt;br&gt;What do you want to do?&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1. Continue toward the engine room.&lt;br&gt;2. Turn back.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1445" y="570" width="410" height="220" as="geometry"/>
         </mxCell>
-        <mxCell id="a763d4cf351a4c-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;" parent="1" source="a763d4cf351a4c-14" edge="1">
+        <mxCell id="a763d4cf351a4c-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;entryDx=0;entryDy=0;" parent="1" source="a763d4cf351a4c-14" edge="1" target="eK3-7oFoeVBhFE5IGF1Q-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-328.7142857142853" y="299.7142857142858" as="targetPoint"/>
           </mxGeometry>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="a763d4cf351a4c-44" value="&lt;h1&gt;S1. Success State&lt;/h1&gt;&lt;p&gt;&lt;span&gt;(this leads to next part of the story, or is the win screen)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Story goes here.&lt;/p&gt;&lt;p&gt;&lt;span&gt;1. Continue...&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="290" width="410" height="220" as="geometry"/>
+        </mxCell>
+        <mxCell id="eK3-7oFoeVBhFE5IGF1Q-12" value="&lt;h1&gt;A4. Conversation with Briggs&lt;/h1&gt;&lt;p&gt;Placeholder Text&lt;/p&gt;&lt;p&gt;1. Choice 1&lt;br&gt;2. Choice 2&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="195" width="410" height="220" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
