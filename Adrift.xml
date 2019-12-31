@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-31T19:20:05.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="aQ_NawQh77ShRsTMfLgr" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-31T19:20:12.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="2b-kGsslrhqEwZnqneh9" version="12.4.7" type="github">
   <diagram id="403a78be-974d-41fc-e179-5ded5faecf27" name="Page-1">
     <mxGraphModel dx="3528" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -205,7 +205,7 @@
           <mxGeometry x="2815" y="585" width="410" height="170" as="geometry"/>
         </mxCell>
         <mxCell id="ppx_gKhdlUlIexlJg7Tg-34" value="&lt;h1&gt;S2. The Defector&lt;/h1&gt;&lt;p&gt;Tate nods to you and signals for you to follow him. As you make your way through the wreckage of your former ship, you question everything you&#39;ve known as a loyal member of the Imperial Navy. As Tate enters Hangar Bay 7, you stop for a moment and look around you, unsure of whether you made the right decision. Was the Empire truly an oppressive government, or is there more to the story than what Tate is telling you? You step into the escape pod with Tate, determined to discover the truth for yourself.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span&gt;1. Return to main menu.&lt;br&gt;2. Exit the game.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3380" y="230" width="410" height="200" as="geometry"/>
+          <mxGeometry x="3380" y="215" width="410" height="200" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
