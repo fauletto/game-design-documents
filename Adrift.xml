@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-31T01:52:09.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="VSF-JzbiWj458sLW5SBd" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-31T01:53:46.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="URyKzpCE7rSxch7upiVY" version="12.4.7" type="github">
   <diagram id="403a78be-974d-41fc-e179-5ded5faecf27" name="Page-1">
-    <mxGraphModel dx="3316" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="8302" dy="3088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -47,7 +47,7 @@
           <mxGeometry x="-920" y="195" width="410" height="220" as="geometry"/>
         </mxCell>
         <mxCell id="a763d4cf351a4c-17" value="&lt;h1&gt;X2. It&#39;s a Trap!&lt;/h1&gt;&lt;p&gt;As you attempt to remove the canister from the ventilation system, you hear a click followed by a rapid, high-pitched beeping sound. You take a step back, but it&#39;s too late. The control panel explodes and turns the engineering bay (and you) into star dust.&lt;/p&gt;&lt;p&gt;Would you like to try again?&lt;/p&gt;&lt;p&gt;1. Yes. (Return to title screen.)&lt;br&gt;2. No. (Quit.)&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1445" y="1530" width="410" height="220" as="geometry"/>
+          <mxGeometry x="-1445" y="1530" width="410" height="200" as="geometry"/>
         </mxCell>
         <mxCell id="a763d4cf351a4c-44" value="&lt;h1&gt;S1. Success State&lt;/h1&gt;&lt;p&gt;&lt;span&gt;(this leads to next part of the story, or is the win screen)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Story goes here.&lt;/p&gt;&lt;p&gt;&lt;span&gt;1. Continue...&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="880" width="410" height="220" as="geometry"/>
@@ -106,7 +106,7 @@
           <mxGeometry x="690" y="195" width="440" height="275" as="geometry"/>
         </mxCell>
         <mxCell id="zfY9RTCVT1ardzbXEiv6-18" value="&lt;h1&gt;X1. Too Slow&lt;/h1&gt;&lt;p&gt;Despite her weakened state, Briggs hasn&#39;t lost a step with her blaster. As you rush toward her, Briggs fires and lands a direct hit on your chest. You collapse to the ground as Briggs takes aim to finish the job.&lt;/p&gt;&lt;p&gt;&quot;I couldn&#39;t let you take any more lives, traitor.&quot;&lt;/p&gt;&lt;p&gt;With a gasping breath, you utter your final words...&lt;br&gt;&lt;/p&gt;&lt;p&gt;1. &quot;It...wasn&#39;t...me...loyal...to...empire...until...the...end...&quot; (Start over.)&lt;br&gt;2. &quot;Too bad...took you so...long to...figure me out...scum...&quot; (Start over.)&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="550" width="440" height="275" as="geometry"/>
+          <mxGeometry x="170" y="550" width="440" height="220" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
