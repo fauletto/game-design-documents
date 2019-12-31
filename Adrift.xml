@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-31T02:18:38.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="r0NSl4Ms1M4nBAUOO45O" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-31T02:22:13.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="CPrmQ0Gdm9OXxAzsUcvJ" version="12.4.7" type="github">
   <diagram id="403a78be-974d-41fc-e179-5ded5faecf27" name="Page-1">
     <mxGraphModel dx="3316" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -49,8 +49,8 @@
         <mxCell id="a763d4cf351a4c-17" value="&lt;h1&gt;X2. It&#39;s a Trap!&lt;/h1&gt;&lt;p&gt;As you attempt to remove the canister from the ventilation system, you hear a click followed by a rapid, high-pitched beeping sound. You take a step back, but it&#39;s too late. The control panel explodes and turns the engineering bay (and you) into star dust.&lt;/p&gt;&lt;p&gt;Would you like to try again?&lt;/p&gt;&lt;p&gt;1. Yes. (Return to title screen.)&lt;br&gt;2. No. (Quit.)&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1445" y="1530" width="410" height="200" as="geometry"/>
         </mxCell>
-        <mxCell id="a763d4cf351a4c-44" value="&lt;h1&gt;S1. Success State&lt;/h1&gt;&lt;p&gt;&lt;span&gt;(this leads to next part of the story, or is the win screen)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Story goes here.&lt;/p&gt;&lt;p&gt;&lt;span&gt;1. Continue...&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="760" y="1520" width="410" height="220" as="geometry"/>
+        <mxCell id="a763d4cf351a4c-44" value="&lt;h1&gt;S1. Escape&lt;/h1&gt;&lt;p&gt;&lt;span&gt;(this leads to next part of the story, or is the win screen)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Story goes here.&lt;/p&gt;&lt;p&gt;&lt;span&gt;1. Continue...&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="1105" width="410" height="220" as="geometry"/>
         </mxCell>
         <mxCell id="zfY9RTCVT1ardzbXEiv6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eK3-7oFoeVBhFE5IGF1Q-12" target="zfY9RTCVT1ardzbXEiv6-14" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -107,10 +107,27 @@
         <mxCell id="Ls7G75rWhO28q-yL9rou-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ls7G75rWhO28q-yL9rou-27" target="Ls7G75rWhO28q-yL9rou-29">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="Ls7G75rWhO28q-yL9rou-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ls7G75rWhO28q-yL9rou-27" target="Ls7G75rWhO28q-yL9rou-32">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="Ls7G75rWhO28q-yL9rou-27" value="&lt;h1&gt;B6. Internal Assault&lt;/h1&gt;&lt;p&gt;&quot;Keep it down, you fool!&quot; Tate whispers in a harsh tone. &quot;Get over here, quick. And stay down, dammit!&quot;&amp;nbsp;&lt;/p&gt;&lt;p&gt;You crouch down and make your way across the Mess Hall to the storage unit where Tate is hiding.&lt;/p&gt;&lt;p&gt;&quot;This was no accident; we&#39;ve been attacked from within. I don&#39;t know who the hell did it, but we ain&#39;t safe here. If you can keep your damn wits about you and follow my orders, I can get us out of here. It ain&#39;t safe here, though. You in?&quot;&lt;/p&gt;&lt;p&gt;What do you want to do?&lt;/p&gt;&lt;p&gt;1. &quot;An internal attack? Are you sure? Okay, let&#39;s move, we can talk on the run.&quot;&lt;br&gt;2. &quot;Who would attack the ship? I can&#39;t leave without knowing who&#39;s behind this.&quot;&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="1235" width="410" height="290" as="geometry"/>
         </mxCell>
+        <mxCell id="Ls7G75rWhO28q-yL9rou-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ls7G75rWhO28q-yL9rou-32" target="a763d4cf351a4c-44">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ls7G75rWhO28q-yL9rou-32" value="&lt;h1&gt;B7. On the Run&lt;/h1&gt;&lt;p&gt;&quot;Okay, then. Keep your head down, and stick close. If we&#39;re spotted, we&#39;re dead.&quot;&lt;/p&gt;&lt;p&gt;Tate signals for you to follow closely behind him as he heads out of the Mess Hall toward the&amp;nbsp;&lt;/p&gt;&lt;p&gt;1. &quot;An internal attack? Are you sure? Okay, let&#39;s move, we can talk on the run.&quot;&lt;br&gt;2. &quot;Who would attack the ship? I can&#39;t leave without knowing who&#39;s behind this.&quot;&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1070" width="410" height="290" as="geometry"/>
+        </mxCell>
         <mxCell id="Ls7G75rWhO28q-yL9rou-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.705;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ls7G75rWhO28q-yL9rou-29" target="Ls7G75rWhO28q-yL9rou-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="960"/>
+              <mxPoint x="-80" y="960"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ls7G75rWhO28q-yL9rou-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.172;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ls7G75rWhO28q-yL9rou-29" target="Ls7G75rWhO28q-yL9rou-32">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Ls7G75rWhO28q-yL9rou-29" value="&lt;h1&gt;B8. Finding the Truth&lt;/h1&gt;&lt;p&gt;&quot;Suit yourself, but I ain&#39;t sticking around long enough to risk gettin&#39; killed,&quot; Tate says. &quot;You want answers? Then head to the cockpit; fastest way is to head back where you came, cut through Corridor E-1, and get back to Crew Hall 4. But listen to me and listen good: don&#39;t trust a damn soul on this ship, you hear me? The Federation has spies everywhere, and this crew ain&#39;t an exception. You sure you don&#39;t want to come with me?&quot;&lt;/p&gt;&lt;p&gt;What&#39;s the plan?&lt;/p&gt;&lt;p&gt;1. &quot;Thanks, Tate. I&#39;ll be careful. If someone doesn&#39;t find out who is sabotaging us, then the Empire may never be safe. I have to go to the cockpit.&quot;&lt;br&gt;2. &quot;On second thought, you&#39;re right. This is too dangerous. Let&#39;s get out of here, and fast.&quot;&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
